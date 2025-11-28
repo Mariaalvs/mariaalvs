@@ -4,7 +4,15 @@
 **`Desenvolvedora FullStack`**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por programação. Atualmente estudo Python, JavaScript, C e Java, além de fazer cursos na Alura para ampliar minhas habilidades. Estou no 3° semestre da faculdade e em busca do meu primeiro estágio, onde eu possa aprender na prática e crescer na área. Tenho interesse em desenvolvimento Fullstack e engenharia de software, sempre buscando aprimorar meus conhecimentos e evoluir como desenvolvedora.
-  
+
+<div>
+    <a href="https://www.instagram.com/accounts/onetap/?next=%" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href = "madualgon5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/maria-eduarda-3b10b0374/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
 
 ### 🤖 Linguagens e Tecnologias
   
