@@ -27,6 +27,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 ### 📊 Estatísticas
 
+### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
@@ -44,3 +46,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
   />
 
 </p>
+
