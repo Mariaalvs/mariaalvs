@@ -1,7 +1,7 @@
 # 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=93B4F7&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Eduarda)](https://git.io/typing-svg)
 
-**`Desenvolvedora FullStack`**
+**`Estudante de Programação`**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por programação. Atualmente estudo Python, JavaScript, C e Java, além de fazer cursos na Alura para ampliar minhas habilidades. Estou no 3° semestre da faculdade e em busca do meu primeiro estágio, onde eu possa aprender na prática e crescer na área. Tenho interesse em desenvolvimento Fullstack e engenharia de software, sempre buscando aprimorar meus conhecimentos e evoluir como desenvolvedora.
 
